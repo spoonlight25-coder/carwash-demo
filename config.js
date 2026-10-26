@@ -181,7 +181,7 @@ window.SITE = {
       color: '#fc3f1d',
       url: 'https://yandex.ru/maps/org/1239922708/reviews/',
       rating: '5.0',
-      count: '1518',
+      count: '1518 отзывов',
     },
     {
       name: '2ГИС',
